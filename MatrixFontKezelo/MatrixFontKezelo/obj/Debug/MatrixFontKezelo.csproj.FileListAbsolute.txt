@@ -1,0 +1,14 @@
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\bin\Debug\MatrixFontKezelo.exe.config
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\bin\Debug\MatrixFontKezelo.exe
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\bin\Debug\MatrixFontKezelo.pdb
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.csproj.AssemblyReference.cache
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.csproj.CoreCompileInputs.cache
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.exe
+C:\Users\Felhasznalo\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.pdb
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\bin\Debug\MatrixFontKezelo.exe.config
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\bin\Debug\MatrixFontKezelo.exe
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\bin\Debug\MatrixFontKezelo.pdb
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.csproj.AssemblyReference.cache
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.csproj.CoreCompileInputs.cache
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.exe
+C:\Users\Beres\OneDrive\OE-UMI\2_felev\Beagy\OPM0PG_Beagy\MatrixFontKezelo\MatrixFontKezelo\obj\Debug\MatrixFontKezelo.pdb
